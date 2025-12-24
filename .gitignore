@@ -1,3 +1,4 @@
 __pycache__
-myenv/
+myenv312/
 .env
+myenv/
